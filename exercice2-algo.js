@@ -4,6 +4,6 @@ function squareAndCombineDigits(number) {
   return Number(squaredDigits.join('')); // 9414 mais en number
 }
 
-console.log(squareAndCombineDigits(9119));
+console.log(squareAndCombineDigits(3213));
 // console.log(squareAndCombineDigits(2112));
 // console.log(squareAndCombineDigits(0));
